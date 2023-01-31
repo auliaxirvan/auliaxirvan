@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org/) and [Laravel](https://laravel.com/).
 - 📫 How to reach me: [auliaxirvan@gmail.com](mailto:auliaxirvan@gmail.com?subject=Reach%20From%20Github).
-- 🎮 I enjoy indulging in mobile gaming pursuits, such as PUBG and Mobile Legends.
+- 🎮 I delight in playing games
 - ⚽️ I am an amateur football player.
 
 #### Platform & Tools
