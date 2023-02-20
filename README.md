@@ -2,7 +2,7 @@
 
 #### About me
 
-- 🌱 I’m currently learning [Laravel](https://laravel.com/).
+- 🌱 I’m currently learning
 - 📫 How to reach me: [auliaxirvan@gmail.com](mailto:auliaxirvan@gmail.com?subject=Reach%20From%20Github).
 - 🎮 I delight in playing games
 - ⚽️ I am an amateur football player.
